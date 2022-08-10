@@ -1,5 +1,5 @@
 # JAVA-I
-# JAVA-I
+
 This repository contains the guide number 1 of the JAVA course held in 2021 for nine months with the exercises solved. The idea is to be able to show what has been learned in this course.
 
 1) Escribir un programa que pida dos números enteros por teclado y calcule la suma
